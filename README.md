@@ -1,2 +1,2 @@
 # restaurant-website
-Practicing my grid skills 🖌
+Practicing my CSS grid layout skills 🖌
